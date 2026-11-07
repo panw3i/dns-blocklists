@@ -1,0 +1,32 @@
+name: sync-upstream
+
+on:
+  schedule:
+    # 04:00 中国时间。路由器 04:20 再从这份仓库拉名单。
+    - cron: "0 20 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 合并上游
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          code=$(curl -sS -o /tmp/sync.json -w '%{http_code}' \
+            -X POST \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/${{ github.repository }}/merge-upstream \
+            -d '{"branch":"main"}')
+          cat /tmp/sync.json
+          echo
+          echo "HTTP $code"
+          case "$code" in
+            200) exit 0 ;;
+            *) exit 1 ;;
+          esac
