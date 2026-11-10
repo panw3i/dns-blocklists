@@ -43,13 +43,6 @@
       }
     },
     {
-      "PK": "000webhost.fr",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "000webhost.info",
       "action": {
         "do": 0,
@@ -58,20 +51,6 @@
     },
     {
       "PK": "000webhostapp.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "000webhotapp.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "000worldwide.com",
       "action": {
         "do": 0,
         "status": 1
@@ -191,13 +170,6 @@
     },
     {
       "PK": "10h.us",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "110.vg",
       "action": {
         "do": 0,
         "status": 1
@@ -792,6 +764,13 @@
       }
     },
     {
+      "PK": "a0001.net",
+      "action": {
+        "do": 0,
+        "status": 1
+      }
+    },
+    {
       "PK": "a3n.de",
       "action": {
         "do": 0,
@@ -1226,13 +1205,6 @@
       }
     },
     {
-      "PK": "awi.za.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "axifile.com",
       "action": {
         "do": 0,
@@ -1290,13 +1262,6 @@
     },
     {
       "PK": "bayfiles.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "bb.vg",
       "action": {
         "do": 0,
         "status": 1
@@ -1521,13 +1486,6 @@
     },
     {
       "PK": "bulkurlshortener.com",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "business-minagne.com",
       "action": {
         "do": 0,
         "status": 1
@@ -2955,13 +2913,6 @@
       }
     },
     {
-      "PK": "fleek.cool",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "flf.li",
       "action": {
         "do": 0,
@@ -3487,13 +3438,6 @@
       }
     },
     {
-      "PK": "guzhibo.cn",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "h.gp",
       "action": {
         "do": 0,
@@ -3957,13 +3901,6 @@
     },
     {
       "PK": "inx.lv",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "ipfs.best-practice.se",
       "action": {
         "do": 0,
         "status": 1
@@ -4572,13 +4509,6 @@
       }
     },
     {
-      "PK": "lowrihouston.pro",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "lu.kg",
       "action": {
         "do": 0,
@@ -5055,13 +4985,6 @@
       }
     },
     {
-      "PK": "nathanaeldan.pro",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
       "PK": "netfast.org",
       "action": {
         "do": 0,
@@ -5511,13 +5434,6 @@
     },
     {
       "PK": "pixelt.de",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "pizzakeep.shop",
       "action": {
         "do": 0,
         "status": 1
@@ -7324,13 +7240,6 @@
     },
     {
       "PK": "webservis.ru",
-      "action": {
-        "do": 0,
-        "status": 1
-      }
-    },
-    {
-      "PK": "website-home.ws",
       "action": {
         "do": 0,
         "status": 1
