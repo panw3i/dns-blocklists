@@ -4,10 +4,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 16 Nov 2026 08:02 UTC
-# Version: 2026.1116.0802.36
+# Last modified: 17 Nov 2026 22:56 UTC
+# Version: 2026.1117.2256.29
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 9762
+# Number of entries: 9765
 #
 *.a.189.cn
 *.t.2merkato.com
@@ -317,7 +317,6 @@
 *.s.gdngs.de
 *.links.geneasens.com
 *.tly.getrewardful.com
-*.s.ggwp.be
 *.link.glasow.fr
 *.s.bnpb.go.id
 *.mercedes.gob.ar
@@ -617,7 +616,6 @@
 *.shop.scghome.com
 *.smaba.sch.id
 *.vita.sch.id
-*.kutt.schantli.cloud
 *.go.scify.org
 *.surl.scrapc.com
 *.go.screbo.com
@@ -1411,6 +1409,7 @@
 *.aftvnews.com
 *.agbr.ir
 *.agileurbia.com
+*.agll.ink
 *.agmd.win
 *.agoz.me
 *.agr.my
@@ -1764,7 +1763,6 @@
 *.b54.in
 *.b9d.me
 *.baas.kr
-*.baba.bio
 *.babblecase.com
 *.babel.team
 *.bacc666.mobi
@@ -1822,6 +1820,7 @@
 *.bee1s.com
 *.bee4.biz
 *.beeb.us
+*.beelnk.com
 *.beepurl.com
 *.beeshort.de
 *.beeurls.com
@@ -2626,7 +2625,6 @@
 *.curl.ro
 *.curlm.in
 *.curlmin.com
-*.curriculumsystem.org
 *.curryfielddistribution.com
 *.curts.me
 *.curturl.net
@@ -2671,6 +2669,7 @@
 *.cutqr.com
 *.cuts.al
 *.cuts.kr
+*.cuts-url.com
 *.cuts2.com
 *.cutt.al
 *.cutt.cx
@@ -2790,6 +2789,7 @@
 *.dell.to
 *.deloi.tt
 *.delphin.link
+*.delta.live
 *.demcon24.com
 *.demolink.net
 *.demoxpress.xyz
@@ -2945,7 +2945,6 @@
 *.druuz.com
 *.drw.sh
 *.dsastro.com
-*.dsgfs.io
 *.dsh.re
 *.dside.ca
 *.dsn.io
@@ -3626,6 +3625,7 @@
 *.go.ford
 *.go.ly
 *.go-link.ru
+*.go-links.net
 *.go-to.us
 *.go1.day
 *.go2.do
@@ -4252,6 +4252,7 @@
 *.jaga.link
 *.jaglil.com
 *.jagoan-hosting.online
+*.jalanku.me
 *.jalanpintas4d.com
 *.jali.me
 *.jalurvip.co
@@ -4600,6 +4601,7 @@
 *.labs.to
 *.laco.st
 *.lam.bo
+*.lamacchina.de
 *.lammariom.dev
 *.landerlab.io
 *.lanergysolutions.com
@@ -5440,6 +5442,7 @@
 *.microsoftaistories.com
 *.microsoftfiles.live
 *.microurl.org
+*.microurls.io
 *.midiavip.com
 *.miffy.me
 *.migly.in
@@ -5960,6 +5963,7 @@
 *.okurl.net
 *.oky.li
 *.oldmutualsa.com
+*.olhe.me
 *.oli.vi
 *.olii.me
 *.oline.me
@@ -6418,6 +6422,7 @@
 *.purls.eu
 *.pushlimit.org
 *.putar.link
+*.putar.win
 *.puugs.com
 *.puulp.it
 *.puxt.cc
@@ -6788,7 +6793,6 @@
 *.rjpl.link
 *.rjvn.co
 *.rjyjwq.com
-*.rkt.bio
 *.rli.io
 *.rls.my
 *.rlu.ru
@@ -8851,7 +8855,6 @@
 *.urlshortener.bnpparibas
 *.urlshortener.pro
 *.urlshortener.site
-*.urlshortenerr.live
 *.urlshortenertool.com
 *.urlshortenervip.com
 *.urlshortly.com
@@ -9037,7 +9040,6 @@
 *.vid.lu
 *.vid4u.net
 *.vidcy.co
-*.videopro.live
 *.videyx.fun
 *.vidmy.fun
 *.vidzsb.com
@@ -9369,6 +9371,7 @@
 *.wuniw.com
 *.wurl.io
 *.wurlie.net
+*.wurlz.com
 *.ww7.fr
 *.wwat.ch
 *.wwf.to
@@ -9581,7 +9584,6 @@
 *.yourls.lu
 *.yourls.net
 *.yourls.org
-*.yourls.website
 *.yourwish.es
 *.yous.ee
 *.youweepingt.org
@@ -9762,6 +9764,7 @@
 *.zyguer.com
 *.zynexly.com
 *.zynga.my
+*.zyp.to
 *.zywv.us
 *.zz.gd
 *.zz.sd

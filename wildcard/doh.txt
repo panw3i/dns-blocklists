@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 16 Nov 2026 09:00 UTC
-# Version: 2026.1116.0900.31
+# Last modified: 17 Nov 2026 23:55 UTC
+# Version: 2026.1117.2355.47
 # Syntax: Domains Wildcard (without subdomains)
-# Number of entries: 3566
+# Number of entries: 3570
 #
 *.ss.0001.xyz
 *.ns.00dani.me
@@ -172,6 +172,9 @@
 *.dns.adguard.com
 *.dns-family.adguard.com
 *.dns-unfiltered.adguard.com
+*.dns.adguarddns.com
+*.family.adguarddns.com
+*.unfiltered.adguarddns.com
 *.dns.adnull.com
 *.dns.adrianlam.com
 *.adguard.adrianofrongillo.ovh
@@ -1652,6 +1655,7 @@
 *.host.jerry-lee.uk
 *.dns.jerrylee.uk
 *.dns.jerryw.cn
+*.adguard.jfchenier.ca
 *.dns.jhangy.us
 *.dns.jichi.io
 *.dns.jimirobaer.be
@@ -2908,7 +2912,6 @@
 *.dns.w3ctag.org
 *.bh.wael.name
 *.dns.wael.name
-*.dns.wahr.top
 *.aqua.is.my.waifu.cz
 *.darkness.is.my.waifu.cz
 *.megumin.is.my.waifu.cz
@@ -3208,6 +3211,7 @@
 *.dns.sb
 *.dns.watch
 *.dns-free.link
+*.dns0.eu
 *.dns4me.net
 *.dns8.org
 *.dnsdoh.art
