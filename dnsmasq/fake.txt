@@ -5,10 +5,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 8 hours
-# Last modified: 18 Nov 2026 22:52 UTC
-# Version: 2026.1118.2252.58
+# Last modified: 19 Nov 2026 22:51 UTC
+# Version: 2026.1119.2251.26
 # Syntax: DNSMasq v2.86 or newer
-# Number of entries: 10727
+# Number of entries: 10728
 #
 local=/acc.accgn.com/
 local=/webtrader.aeratiqos.com/
@@ -1785,6 +1785,7 @@ local=/braintester.net/
 local=/bralettesstore.com/
 local=/brand-fahrradladen.de/
 local=/brandclothesshop.site/
+local=/branden-burg.com/
 local=/brandschutzfachbuero-engler.de/
 local=/brandsoutlet.at/
 local=/brandup-grade.de/
